@@ -450,7 +450,7 @@ const NewProduct = ({}) => {
   return (
     <Flex as="form" pb={6} onSubmit={handleSubmit(submit)} pt={5}>
       <Flex mx="auto" width="100%" maxWidth="750px" flexDirection="column">
-        <Text mb={4}>Product details</Text>
+        <Text mb={4}>Product detailss</Text>
         <Flex mb={5}>
           <Box width={4 / 7}>
             <Input
